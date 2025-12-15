@@ -1,0 +1,117 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files
+data/*.csv
+!data/dummy_data.csv  # Keep sample data
+
+# Model files
+models/*.pkl
+!models/insulin_predictor.pkl  # Keep trained model
+models/evaluation_results.json
+models/evaluation_report.txt
+
+# Logs
+logs/
+*.log
+
+# Environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Notebooks
+*.ipynb_checkpoints
+
+# Backups
+*.bak
+*.backup
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Reports
+reports/
+!reports/system_report_*.json  # Keep system reports
+
+# Docker
+docker-compose.override.yml
+
+# Test coverage
+.coverage
+htmlcov/
+
+# Package manager
+poetry.lock
+Pipfile.lock
+
+# Jupyter
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/

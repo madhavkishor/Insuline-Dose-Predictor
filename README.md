@@ -243,4 +243,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Last Updated: April 2024 | Version: 2.1*
+*Last Updated: December 2025 | Version: 2.1*

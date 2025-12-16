@@ -106,13 +106,6 @@ Basal Dose = Weight × Age Factor × Diabetes Factor × Activity Factor × HbA1c
 | 7.0-9.0% | 130 mg/dL | Needs Improvement |
 | > 9.0% | 150 mg/dL | Poor Control |
 
-## **📸 Screenshots**
-*(Add your screenshots here)*
-1. **Dashboard Overview** - Main interface with metrics
-2. **Dose Calculator** - Interactive insulin calculation
-3. **Visualizations** - Glucose trends and charts
-4. **Risk Assessment** - Color-coded risk analysis
-
 ## **🎮 Usage Guide**
 
 ### **1. Setting Patient Parameters**

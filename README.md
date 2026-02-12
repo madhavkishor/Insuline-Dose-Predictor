@@ -234,6 +234,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Report Bug](https://github.com/madhavkishor/Insuline-Dose-Predictor/issues/new?template=bug_report.md)
 - [Request Feature](https://github.com/madhavkishor/Insuline-Dose-Predictor/issues/new?template=feature_request.md)
 
----
+--
 
 *Last Updated: December 2025 | Version: 2.1*

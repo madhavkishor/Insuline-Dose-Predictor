@@ -1,6 +1,3 @@
-"""
-Configuration settings for DiabeDose application
-"""
 
 import os
 from dataclasses import dataclass
@@ -8,7 +5,6 @@ from typing import Dict, Any
 
 @dataclass
 class AppConfig:
-    """Application configuration"""
     APP_NAME: str = "DiabeDose"
     APP_VERSION: str = "1.0.0"
     DEBUG: bool = False

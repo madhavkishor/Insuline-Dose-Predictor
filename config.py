@@ -140,7 +140,7 @@ class AppConfig:
                 'risk': 'high' if hba1c > 8.0 else 'medium'
             }
 
-# Global configuration instance
+# Global configuration instances
 config = AppConfig()
 
 def load_config_from_env():
